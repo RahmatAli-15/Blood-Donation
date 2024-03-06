@@ -12,7 +12,7 @@ var body = "Name: " + name + "<br/> Email:" + email + "<br/> Contact Number:" + 
   Email.send({
   Host : "smtp.elasticemail.com",
   Username : "projectuse2526@gmail.com",
-  Password : "EAD1524BA8191BEE885C6F971F8C6F112FDB",
+  Password : "..................................",
     To : 'rahmatali2526@gmail.com',
     From : "projectuse2526@gmail.com",
     Subject : "Donar/Patient Information",
